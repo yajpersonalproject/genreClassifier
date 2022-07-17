@@ -15,5 +15,3 @@ song=f'{directory}/____.wav'
 predict_Genre(song)
 
 In the code above, change the ___ into an extrnal song of your liking, make sure it is a wav file.
-
-Email me at yajtet@my.ofs.edu.sg if there are any problems with the code.
